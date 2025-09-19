@@ -1,4 +1,5 @@
-import dados from "./..models/dados.js"
+import dados from "./../models/dados.js"
+
 
 const { pocoes } = dados;
 
